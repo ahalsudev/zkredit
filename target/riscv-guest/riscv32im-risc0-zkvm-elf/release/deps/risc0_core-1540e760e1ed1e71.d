@@ -1,0 +1,10 @@
+/Users/ahmad/Code/zkp-bootcamp/zkredit/target/riscv-guest/riscv32im-risc0-zkvm-elf/release/deps/librisc0_core-1540e760e1ed1e71.rmeta: /Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/lib.rs /Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/field/mod.rs /Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/field/baby_bear.rs /Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/field/goldilocks.rs
+
+/Users/ahmad/Code/zkp-bootcamp/zkredit/target/riscv-guest/riscv32im-risc0-zkvm-elf/release/deps/librisc0_core-1540e760e1ed1e71.rlib: /Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/lib.rs /Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/field/mod.rs /Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/field/baby_bear.rs /Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/field/goldilocks.rs
+
+/Users/ahmad/Code/zkp-bootcamp/zkredit/target/riscv-guest/riscv32im-risc0-zkvm-elf/release/deps/risc0_core-1540e760e1ed1e71.d: /Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/lib.rs /Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/field/mod.rs /Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/field/baby_bear.rs /Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/field/goldilocks.rs
+
+/Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/lib.rs:
+/Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/field/mod.rs:
+/Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/field/baby_bear.rs:
+/Users/ahmad/.cargo/registry/src/index.crates.io-6f17d22bba15001f/risc0-core-1.1.3/src/field/goldilocks.rs:
